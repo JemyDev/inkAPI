@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/server/models/Presentation.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models/User.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/populate.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/Presentation.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/Users.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/router.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models/Production.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models/Social.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/models/Skill.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/server.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/Productions.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/Skills.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/controllers/Socials.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/server/models/Presentation.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models/User.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/populate.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/Presentation.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/Users.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/router.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models/Production.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models/Social.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models/Skill.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/server.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/Productions.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/Skills.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/controllers/Socials.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
